@@ -1,6 +1,6 @@
-internetrooms
+netnooks
 
-welcome to internetrooms, personal droplet frequented by Ben Chiasson, MSc
+welcome to netnooks, personal droplet frequented by Ben Chiasson, MSc
 > about me
     > biography
         MSc and BSc graduate in neurobiology with extensive experience in
