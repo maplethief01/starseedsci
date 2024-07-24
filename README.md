@@ -1,6 +1,6 @@
-netnooks
+webspore
 
-welcome to netnooks, personal droplet frequented by Ben Chiasson, MSc
+welcome to webspore, personal droplet frequented by Ben Chiasson, MSc
 
 about me:
 > MSc and BSc graduate in neurobiology with extensive experience in
